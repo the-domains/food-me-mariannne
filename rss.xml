@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Food me Mariannne]]></title>
         <description><![CDATA[Food me Mariannne]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/food-me-mariannne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 09:22:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 09:22:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/food-me-mariannne/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Салат]]></title>
+            <description><![CDATA[<article><h1>Салат</h1><p>В миске смешай просеянную муку,разрыхлитель и сахар. Стакан ягод измельчи блендером до пюре,оставшиеся ягоды ещё понадобятся. Отдельно смешай все жидкие ингредиенты:сок,воду,льняную муку и смородиновое пюре. Добавь жидкие ингредиенты в сухие,тщательно перемешай. Орехи поруби, добавь в тесто вместе с целыми ягодами. Укрась орехами семечками лепестками миндаля.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9565ee0-aa76-4c97-9a50-fbf64c483a4c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9565ee0-aa76-4c97-9a50-fbf64c483a4c.jpg</link>
+            <guid isPermaLink="false">bfc73325-18af-4a00-8466-1f7ef3b0fb83</guid>
+            <pubDate>Fri, 01 Jul 2016 09:22:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5834eac-db31-445e-9a9e-4885bf2a8976.jpg" alt="&YAcy; &ocy;&chcy;&iecy;&ncy;&softcy; &lcy;&yucy;&bcy;&lcy;&yucy; &pcy;&ocy;&iecy;&scy;&tcy;&softcy;. &Ocy;&scy;&ocy;&bcy;&iecy;&ncy;&ncy;&ocy; &kcy;&ocy;&gcy;&dcy;&acy; &khcy;&ocy;&chcy;&iecy;&tcy;&scy;&yacy; &pcy;&rcy;&yacy;&mcy; &pcy;&ocy;&zhcy;&rcy;&acy;&tcy;&softcy;. &Dcy;&acy;, &zhcy;&rcy;&acy;&tcy;&softcy; &yacy; &tcy;&ocy;&chcy;&ncy;&ocy; &lcy;&yucy;&bcy;&lcy;&yucy;. &acy; &iecy;&shchcy;&iecy; &lcy;&yucy;&bcy;&lcy;&yucy;, &kcy;&ocy;&gcy;&dcy;&acy; &vcy;&kcy;&ucy;&scy;&ncy;&ocy;. &Ncy;&icy;&ncy;&acy; &icy; &Vcy;&acy;&ncy;&yacy; &scy;&lcy;&acy;&vcy;&ncy;&ycy;&iecy; &rcy;&iecy;&bcy;&yacy;&tcy;&acy;.">]]></description>
-            <link>undefinedya-ochen-lyublyu-poest-osobenno-kogda-hochetsya-pryam-pozhrat-d/index.html</link>
+            <link>https://thegrid.ai/food-me-mariannne/ya-ochen-lyublyu-poest-osobenno-kogda-hochetsya-pryam-pozhrat-d/index.html</link>
             <guid isPermaLink="false">f4aaff91-4320-493f-b59a-b7ab97ab4b09</guid>
             <pubDate>Fri, 01 Jul 2016 09:22:00 GMT</pubDate>
         </item>
