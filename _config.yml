@@ -1,4 +1,4 @@
-typography_spectrum: 0.8772841787431389
+typography_spectrum: 0.3203127169981599
 color:
   brandStrength: 0.26349277701228857
   lightness: 0.9438738888129592
@@ -14,7 +14,7 @@ opengraph:
   image: null
   appId: ''
   type: 'https://www.facebook.com/marianne.gryu'
-layout_spectrum: 0.07713660434819758
+layout_spectrum: 0.31078532827086747
 author:
   name: Marianne
   email: mariannegryu@gmail.com
