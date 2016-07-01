@@ -1,14 +1,14 @@
-layout_spectrum: 0.33626271202228963
-typography_spectrum: 0.7337646970991045
+layout_spectrum: 0.29727744217962027
+typography_spectrum: 0.9691665121354163
 color:
-  brandStrength: 0.8691112361848354
-  lightness: 0.2571070729754865
-  saturation: 0.6680324682965875
-  rhythmicContrast: 0.6477531022392213
+  brandStrength: 0.8227861579507589
+  lightness: 0.8849433015566319
+  saturation: 0.5768568990752101
+  rhythmicContrast: 0.7274773537646979
   brandColors:
-    - '#B8ECD7'
-    - '#083643'
-    - '#B1E001'
-    - '#CEF09D'
-    - '#476C5E'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: Food me Mariannne
