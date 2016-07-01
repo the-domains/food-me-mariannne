@@ -1,20 +1,20 @@
-typography_spectrum: 0.06615473236888647
+typography_spectrum: 0.8772841787431389
 color:
-  brandStrength: 0.8338486202992499
-  lightness: 0.28043747367337346
-  saturation: 0.3106531072407961
-  rhythmicContrast: 0.8880147859454155
+  brandStrength: 0.26349277701228857
+  lightness: 0.9438738888129592
+  saturation: 0.920843685278669
+  rhythmicContrast: 0.9580337954685092
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 opengraph:
   image: null
   appId: ''
   type: 'https://www.facebook.com/marianne.gryu'
-layout_spectrum: 0.7492554686032236
+layout_spectrum: 0.07713660434819758
 author:
   name: Marianne
   email: mariannegryu@gmail.com
