@@ -1,15 +1,15 @@
-typography_spectrum: 0.2659767128061503
+typography_spectrum: 0.190131128532812
 color:
-  brandStrength: 0.6684027146548033
-  lightness: 0.252987066982314
-  saturation: 0.33150146715343
-  rhythmicContrast: 0.9639792609959841
+  brandStrength: 0.2036026082932949
+  lightness: 0.9246643220540136
+  saturation: 0.5333665937650949
+  rhythmicContrast: 0.6578924360219389
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 opengraph:
   image: null
   appId: ''
